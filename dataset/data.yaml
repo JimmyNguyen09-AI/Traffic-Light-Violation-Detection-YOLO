@@ -1,0 +1,6 @@
+path: C:/Users/ngtru/Documents/CodeSpace/red_light_violation/dataset
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: license_plate

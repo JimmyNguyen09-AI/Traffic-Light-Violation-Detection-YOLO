@@ -1,0 +1,7 @@
+dataset/images
+dataset/labels
+
+models/yolo8m.pt
+models/yolo8s.pt
+
+train/runs
